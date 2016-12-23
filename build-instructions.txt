@@ -1,0 +1,8 @@
+Created by: Travis Kipp
+December 16, 2016
+
+
+Windows:
+py -m PyInstaller -F -w txtlock.py
+
+py -m PyInstaller -F -w --icon=keypad.ico txtlock.py
